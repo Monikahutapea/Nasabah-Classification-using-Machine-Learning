@@ -80,4 +80,4 @@ The main goal is to classify customers based on their characteristics to predict
 
 ---
 
-## 📂 Project Structure
+
